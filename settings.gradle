@@ -1,0 +1,2 @@
+rootProject.name = "AriyundaChat"
+include ':app'
